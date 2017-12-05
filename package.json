@@ -1,0 +1,29 @@
+{
+  "name": "kodarie",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ycmjason/kodarie.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ycmjason/kodarie/issues"
+  },
+  "homepage": "https://github.com/ycmjason/kodarie#readme",
+  "dependencies": {
+    "koa": "^2.4.1",
+    "koa-router": "^7.3.0",
+    "koa-static": "^4.0.2",
+    "mongoose": "^4.13.6"
+  },
+  "devDependencies": {
+    "mocha": "^4.0.1"
+  }
+}
